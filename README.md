@@ -1,2 +1,3 @@
 # shared
-Recursos compartilhados
+
+Just for some shared resources...
